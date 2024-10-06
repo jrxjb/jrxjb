@@ -1,7 +1,6 @@
 # ¡Hola! Soy José Bustamante 👋
 
 ## Certificaciones
-- **HTML Y CSS**
 - **Python**
 
 ## Conocimientos
