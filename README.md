@@ -2,6 +2,7 @@
 
 ## Certificaciones
 - **Python**
+- **HTML5 Y CSS**
 
 ## Conocimientos
 - **SQL**: `PostgreSQL`, `MySQL`, `Workbench`
