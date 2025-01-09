@@ -37,7 +37,5 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jrxjb&theme=flat&hide_border=false)
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrxjb&label=Profile%20views&color=0e75b6&style=flat" alt="jrxjb" /> </p>
 
