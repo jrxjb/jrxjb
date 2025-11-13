@@ -1,4 +1,4 @@
-# ¡Hi! I´m José Bustamante 👋
+# ¡Hi! I´m José Bustamante Junior DEV 👋
 
 ## Certifications
 ### click
